@@ -1,6 +1,3 @@
 <h1 align="center">Hi 👋, I'm Dream23322!</h1>
-<h2 align="center">I love Minecraft, I am pretty good at programming, I like helping people, im always ready to learn new things, and im pretty nice.</h2>
-<div align="center">
-<a href="https://github.com/wendellmeset" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<h2 align="center">I am ok at making random shit for Minecraft :D if you want something, ask, i probs wont make it tho.</h2>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dream23322&layout=compact&theme=dark"></p>
