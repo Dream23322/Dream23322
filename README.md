@@ -16,14 +16,13 @@
   https://isolateanticheat.wixsite.com/isolate
 
 
-  <details>
-    <summary>GitHub Profile Stats 💻</summary>
-    <br/>
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dream23322's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Dream23322&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-    <a align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dream23322&layout=compact&theme=dark"></p></a>
-    <br/>
-  </details>
-</div>
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dream23322&layout=compact&theme=dark"></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dream23322&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+  <br/>
+</details>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dream23322&layout=compact&theme=dark"></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dream23322&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+
