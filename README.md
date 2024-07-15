@@ -13,7 +13,7 @@
   
   See more at:
   
-  https://isolateanticheat.wixsite.com/isolate
+  https://dream23322.github.io/isosite/
 
 
 <details>
