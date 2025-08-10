@@ -1,20 +1,14 @@
-<h1 align="center">Hi 👋, I'm Dream23322!</h1>
-<h2 align="center">I am ok at making random shit for Minecraft :D if you want something, ask, i probs wont make it tho.</h2>
+Hey! I'm 4urxra (most pronounce as "aura"). I make stuff for Minecraft, and other things. 
 
-<div align="center">
-  I work on projects, random stuff, here are my top ones that im still working on
-  
-  4urxrah4ck:
-  A private minecraft Java edition crystal pvp client (for 5b5t)
-  
-  Isolate Anticheat:
-  
-  A minecraft bedrock anticheat for pvp style servers
-  
-  See more at:
-  
-  https://dream23322.github.io/isosite/
+__**Main Projects**__
 
+- **Isolate Anticheat**
+
+A power MCBE anticheat for PowerNukkitX server, this is currently private, with no current plans to go public, though I may make a public PNX anticheat in the future.
+
+- **Soda Autoclicker**
+
+An autoclicker for MC Java, with unique features such as AutoRod, Potion Throwing and 
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
