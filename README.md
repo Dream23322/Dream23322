@@ -2,13 +2,13 @@ Hey! I'm 4urxra (most pronounce as "aura"). I make stuff for Minecraft, and othe
 
 __**Main Projects**__
 
-- **Isolate Anticheat**
-
-A power MCBE anticheat for PowerNukkitX server, this is currently private, with no current plans to go public, though I may make a public PNX anticheat in the future.
-
 - **Soda Autoclicker**
 
-An autoclicker for MC Java, with unique features such as AutoRod, Potion Throwing and 
+A powerful autoclicker for Minecraft Java Edition 1.8.9
+
+- **Taui**
+
+Though currently private, it's a collection of Ai tools, that don't send all your data to the cloud. yay
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
