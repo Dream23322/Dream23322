@@ -1,14 +1,12 @@
-Hey! I'm 4urxra (most pronounce as "aura"). I make stuff for Minecraft, and other things. 
-
-__**Main Projects**__
+I write bad code.
 
 - **Soda Autoclicker**
 
-A powerful autoclicker for Minecraft Java Edition 1.8.9
+> A powerful autoclicker for Minecraft Java Edition 1.8.9
 
 - **Taui**
 
-Though currently private, it's a collection of Ai tools, that don't send all your data to the cloud. yay
+> Though currently private, it's a collection of Ai tools, that don't send all your data to the cloud. yay
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
