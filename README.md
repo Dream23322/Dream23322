@@ -4,9 +4,9 @@ I write bad code.
 
 > A powerful autoclicker for Minecraft Java Edition 1.8.9
 
-- **Taui**
+- **qwen3-code**
 
-> Though currently private, it's a collection of Ai tools, that don't send all your data to the cloud. yay
+> Claude code for local AI, has some decent features, kinda has pewdiepies council thing, yuh its decent
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
